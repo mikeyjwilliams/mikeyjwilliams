@@ -18,24 +18,62 @@ I hope to share not only what I have learned, the things I am and will learn wit
 
 ## Toolbox 
 
-<img src="./imgs/html5-1.svg" alt="html5" width="150" height="100">
+<table>
+    <tr>
+        <td>
+            <img src="./imgs/html5-1.svg" alt="html5" width="150" height="100">
+        </td>
+        <td>
+            <img src="./imgs/css-5.svg" alt="css3" width="150" height="100">
+        </td>
+        <td>
+            <img src="./imgs/logo-javascript.svg" alt="JavaScript" width="100" height="100">
+        </td>
+        <td>
+            <img src="./imgs/sass-1.svg" alt="sassy sass" width="150" height="100">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./imgs/sqlite.svg" alt="sqlite" width="150" height="100">
+        </td>
+        <td>
+            <img src="./imgs/react-1.svg" alt="ReactJs" width="100" height="100">
+        </td>
+        <td>
+            <img src="./imgs/nodejs-icon.svg" alt="Node.js" with="150" height="100">
+        </td>
+        <td>
+            <img src="./imgs/linux-tux.svg" alt="Linux systems" width="100" height="150">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./imgs/github-icon-1.svg" alt="git and github" width="150" height="150">
+        </td>
+        <td>
+            <img src="./imgs/express-109.svg" alt="express.js" width="150" height="100">
+        </td>
+    </tr>
 
-<img src="./imgs/css-5.svg" alt="css3" width="150" height="100">
-
-<img src="./imgs/logo-javascript.svg" alt="JavaScript" width="100" height="100">
-
-<img src="./imgs/sass-1.svg" alt="sassy sass" width="150" height="100">
 
 
-<img src="./imgs/sqlite.svg" alt="sqlite" width="150" height="100">
+</table>
 
-<img src="./imgs/react-1.svg" alt="ReactJs" width="100" height="100">
 
-<img src="./imgs/nodejs-icon.svg" alt="Node.js" with="150" height="100">
 
-<img src="./imgs/linux-tux.svg" alt="Linux systems" width="100" height="150">
 
-<img src="./imgs/github-icon-1.svg" alt="git and github" width="150" height="150">
 
-<img src="./imgs/express-109.svg" alt="express.js" width="150" height="100">
+
+
+
+
+
+
+
+
+
+
+
+
 
