@@ -43,15 +43,15 @@ I hope to share not only what I have learned, the things I am and will learn wit
         <td>
             <img src="./imgs/nodejs-icon.svg" alt="Node.js" with="150" height="100">
         </td>
-        <td style="background:white">
+        <td>
             <img src="./imgs/linux-tux.svg" alt="Linux systems" width="150" height="150">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./imgs/github-icon-1.svg" alt="git and github" width="150" height="150">
+            <img src="./imgs/git-icon.svg" alt="git and github" width="150" height="150">
         </td>
-        <td style="background:white">
+        <td>
             <img src="./imgs/express-109.svg" alt="express.js" width="150" height="100">
         </td>
     </tr>
