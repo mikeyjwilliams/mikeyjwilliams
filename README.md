@@ -11,8 +11,6 @@ I like to create, design, build things and will be putting more effort into docu
 
 I hope to share not only what I have learned, the things I am and will learn with you all coming up.
 
-![Twitter URL](https://img.shields.io/twitter/url?label=follow%20me%20on%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FthoughtToDesign)
-
 
 ---
 
