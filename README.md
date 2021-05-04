@@ -7,9 +7,18 @@
 
 A Software Engineer in process. I have gained experience in web development while looking for Quality Assurance or similar roles at this time.
 
-I like to create, design, build things and will be putting more effort into documenting these experiences coming forward to gain a greater web presence.
+I like to create, design, and build things and will be putting more effort into writing about these experiences coming forward. As I love to learn new
+things and experiment.
 
-I hope to share not only what I have learned, the things I am and will learn with you all coming up.
+
+How to reach me: [email](mailto:williamsmikeyj@outlook.com) or on [twitter](https://twitter.com/thoughtToDesign)
+
+Outside of tech I enjoy art, music whether trying to create it or listening, playing video games some, and spending time with loved ones. 
+
+
+---
+
+
 
 
 ---
