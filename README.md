@@ -5,13 +5,12 @@
 
 ---
 
-A Software Engineer in process. I have gained experience in web development while looking for Quality Assurance or similar roles at this time.
+A Software Engineer in process. My goal is to help create technology that is friendly, useful, and good for humans.
 
-I like to create, design, and build things and will be putting more effort into writing about these experiences coming forward. As I love to learn new
-things and experiment.
+I like to create, design, and build things. Also, I love to learn, figure puzzles out, and see how stuff works through experiments.
 
 
-How to reach me: [email](mailto:williamsmikeyj@outlook.com) or on [twitter](https://twitter.com/thoughtToDesign)
+How to reach me: [email](mailto:williamsmikeyj@outlook.com)
 
 Outside of tech I enjoy art, music whether trying to create it or listening, playing video games some, and spending time with loved ones. 
 
@@ -62,10 +61,9 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
             <img src="./imgs/express-109.svg" alt="express.js" width="150" height="100">
         </td>
     </tr>
-
-
-
 </table>
+
+I am always tinkering and playing with things and seeing what is out there.
 
 
 
