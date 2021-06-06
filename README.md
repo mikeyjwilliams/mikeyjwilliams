@@ -28,16 +28,7 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
 <a  href="https://williamsmikeyj.medium.com/"><img src="https://img.shields.io/badge/Medium%20-black?&style=for-the-badge&logo=medium&logoColor=white"></a>
 <br>
 
-
-
-
 ---
-
-
-
-
----
-
 ## Tools in my box🛠
 <p float="left">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
@@ -69,14 +60,3 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
