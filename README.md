@@ -25,7 +25,7 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
 <a href="https://www.linkedin.com/in/mikeyjwilliams/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a  href="https://twitter.com/ThoughtToDesign"><img src="https://img.shields.io/badge/Twitter%20-white?&style=for-the-badge&logo=twitter&logoColor=blue"></a> 
 <a  href="https://thoughttodesign.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode%20-white?&style=for-the-badge&logo=hashnode&logoColor=blue"></a>
-<a  href="https://williamsmikeyj.medium.com/"><img src="https://img.shields.io/badge/Medium%20-black?&style=for-the-badge&logo=medium&logoColor=white"></a>
+
 <br>
 
 ---
