@@ -2,15 +2,15 @@
     <samp>
         Hi my name is <em>Mikey Williams</em>.
         <br/> Software Engineer
-        <br /> that loves to create usable,
+        <br /> that loves to
+        <br /> create &amp; test
+        <br /> usable,
         <br /> enjoyable,
         <br /> and accessible technologies
         <br /> for humans.
     </samp>
 </p>
-<p>
-Outside of tech I enjoy art, music whether trying to create it or listening, playing video games some, and spending time with loved ones. 
-</p>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeyjwilliams&theme=blue-green&layout=compact" width=47% align=left>
@@ -24,12 +24,10 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
 <a href="mailto:williamsmikeyj@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a> 
 <a href="https://www.linkedin.com/in/mikeyjwilliams/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-<a  href="https://thoughttodesign.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode%20-white?&style=for-the-badge&logo=hashnode&logoColor=blue"></a>
-
 <br>
 
 ---
-## Tools in my box🛠
+## Tools Used Before🛠
 <p float="left">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" > 
@@ -55,8 +53,12 @@ Outside of tech I enjoy art, music whether trying to create it or listening, pla
 
 <p>
 <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
-<img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+## Technologies for future Learning  
+
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
