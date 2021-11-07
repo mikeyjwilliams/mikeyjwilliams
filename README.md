@@ -1,14 +1,14 @@
 <p align="center">
     <samp>
         Hi my name is <em>Mikey Williams</em>.
-        <br/> Software Engineer
-        <br /> that loves to
-        <br /> create &amp; test
-        <br /> usable,
-        <br /> enjoyable,
-        <br /> and accessible technologies
-        <br /> for humans.
     </samp>
+        <br /> Figuring things out one day at a time.
+        <br /> Learning automation through projects.
+        <br /> Simplifying life one idea at a time.
+        <br /> Optimizing built solutions customizing for needs.
+        <br /> Designing graphics for my <a href="michaeljwilliams.com">Thought To Design</a> line.
+        <br /> Working on scripts and programs to enhance solutions.
+    
 </p>
 
 
@@ -56,7 +56,18 @@
 
 ## Technologies for future Learning  
 
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-
+ <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxobroko&layout=compact)
+ <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/mikeyjwilliams/mikeyjwilliams?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/mikeyjwilliams?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/mikeyjwilliams?style=flat-square&color=black&logo=github">
+  </a>
 
