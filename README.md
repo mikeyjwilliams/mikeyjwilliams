@@ -6,7 +6,6 @@
         <br /> Learning automation through projects.
         <br /> Simplifying life one idea at a time.
         <br /> Optimizing built solutions customizing for needs.
-        <br /> Designing graphics for my <a href="michaeljwilliams.com">Thought To Design</a> line.
         <br /> Working on scripts and programs to enhance solutions.
     
 </p>
@@ -18,7 +17,7 @@
 
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 ---
 ## Reach Out To Me 📫  
 <a href="mailto:williamsmikeyj@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a> 
