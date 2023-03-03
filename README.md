@@ -4,9 +4,7 @@
     </samp>
         <br /> Figuring things out one day at a time.
         <br /> Learning automation through projects.
-        <br /> Simplifying life one idea at a time.
-        <br /> Optimizing built solutions customizing for needs.
-        <br /> Working on scripts and programs to enhance solutions.
+
     
 </p>
 
@@ -47,26 +45,10 @@
 
   </p>
 
+Technologies Learning 📚
 
-## Technologies in progress 📚
-
-<p>
-<img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
+Parcel.js | pnpm 
 
 ## Technologies for future Learning  
 
-<img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
- <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saxobroko&layout=compact)
- <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/mikeyjwilliams/mikeyjwilliams?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/mikeyjwilliams?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/mikeyjwilliams?style=flat-square&color=black&logo=github">
-  </a>
-
+eleventy
