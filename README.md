@@ -47,7 +47,7 @@
 
 Technologies Learning 📚
 
-Parcel.js | pnpm 
+Parcel.js | pnpm | Selenium | Cypress
 
 ## Technologies for future Learning  
 
