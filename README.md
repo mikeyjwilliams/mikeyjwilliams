@@ -1,9 +1,10 @@
 <p align="center">
     <samp>
-        Hi my name is <em>Mikey Williams</em>.
+        Hi my name is <b><em>Mikey Williams</em><b>.
     </samp>
-        <br /> Figuring things out one day at a time.
+        <br /> <i>Learning something new everyday<i>.
         <br /> Learning automation through projects.
+        <br /> Playing in Code
 
     
 </p>
