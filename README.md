@@ -48,6 +48,6 @@
 
 Technologies Learning 📚
 
-Parcel.js | Cypress
+Docker
 
 
