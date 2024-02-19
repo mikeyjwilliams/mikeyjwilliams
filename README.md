@@ -4,7 +4,8 @@
     </samp>
         <br /> <i>Learning something new everyday<i>.
         <br /> Learning automation through projects.
-        <br /> Playing in Code
+
+        
 
     
 </p>
@@ -45,9 +46,3 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
   </p>
-
-Technologies Learning 📚
-
-Docker
-
-
